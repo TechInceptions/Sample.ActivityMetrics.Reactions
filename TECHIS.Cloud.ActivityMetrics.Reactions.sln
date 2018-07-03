@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TECHIS.Cloud.ActivityMetrics.Reactions.Test", "UnitTestProject1\TECHIS.Cloud.ActivityMetrics.Reactions.Test.csproj", "{461A944F-93CD-4657-90DD-8C16648A93EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461A944F-93CD-4657-90DD-8C16648A93EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A944F-93CD-4657-90DD-8C16648A93EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A944F-93CD-4657-90DD-8C16648A93EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A944F-93CD-4657-90DD-8C16648A93EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05B0E43-8F95-41E9-A2AC-3D5ED6867C2C}
+	EndGlobalSection
+EndGlobal
